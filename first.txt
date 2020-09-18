@@ -1,7 +1,8 @@
-Git : Git‚ÆGitHub
+Git : Git & GitHub
 
 git add first.txt
 git add .
+
 git status
 git commit
 git commit -v
@@ -15,3 +16,12 @@ git log --oneline -n 10
 git log -p first.txt
 
 git diff
+git diff HEAD
+
+git remote add PJ-1 https://github.com/Sora-a/PJ-1.git
+git push PJ-1 master
+git push PJ-1 BR-1
+
+git reset HEAD second.txt
+git checkout second.txt
+git rm --cached second.txt
