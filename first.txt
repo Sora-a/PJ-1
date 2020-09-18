@@ -1,0 +1,2 @@
+Git : ‚Í‚¶‚ß‚Ä‚ÌGit‚ÆGitHub
+git add first.txt
