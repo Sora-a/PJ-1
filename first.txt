@@ -1,3 +1,17 @@
 Git : Git‚ÆGitHub
+
 git add first.txt
 git add .
+git status
+git commit
+git commit -v
+git push
+
+git rm second.txt
+
+git log
+git log --oneline
+git log --oneline -n 10
+git log -p first.txt
+
+git diff
